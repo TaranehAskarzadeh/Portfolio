@@ -10,4 +10,4 @@ description: >
     <img src='https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white'>
   </a>
 show_downloads: false
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
