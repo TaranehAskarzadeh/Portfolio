@@ -9,7 +9,6 @@
 
 ## 🛠 Professional Skills
 
-- **Data Science & Analytics:** Machine Learning, Deep Learning, Natural Language Processing, Time Series Analysis, Image Classification, Data Modeling, Data Mining, Data Analysis, Big Data, Statistical Analysis, Predictive Modeling, and Database Management Systems (SQL, NoSQL), Git, Docker. 
 - **Programming:** Python, R, HTML, MATLAB, MySQL.
 - **Data Visualization:** ArcGIS Pro, ArcMap, Power BI, Tableau, Python (Matplotlib, Seaborn, Plotly, Ggplot, Geoplotlib), SAP, SPSS, SAS.
 - **Management:** Project management, risk assessment, strategic planning, and proposal writing.
