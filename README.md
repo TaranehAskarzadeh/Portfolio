@@ -7,15 +7,15 @@
 
 ---
 
-## Technical Skills
-
-- **Python, R, MATLAB, MySQLm, ArcGIS Pro, ArcMap, Power BI, Tableau,SAP, SPSS, SAS**
+## Technical Skills: Python, R, MATLAB, MySQLm, ArcGIS Pro, ArcMap, Power BI, Tableau,SAP, SPSS, SAS
 
 ##  Education
 
-Ph.D. in Transportation & Supply Chain\North Dakota State University (Dec2023)
+- Ph.D. in Transportation & Supply Chain      
+  North Dakota State University (Dec2023)
 
-Graduate Certificate in Big Data Applied Stats Analysis\ [North Dakota State University](https://www.parchment.com/u/award/83d69a01410dc0aebd33f3b4c973afad)(Dec 2023)
+- Graduate Certificate in Big Data Applied Stats Analysis      
+  [North Dakota State University](https://www.parchment.com/u/award/83d69a01410dc0aebd33f3b4c973afad)(Dec 2023)
 
 ---
 
@@ -29,7 +29,7 @@ Graduate Certificate in Big Data Applied Stats Analysis\ [North Dakota State Uni
 **Data Science Fellow\Department of Statistics\North Dakota State University(May2023-Dec 2023)**
 - Developed a high-accuracy eVTOL performance model, contributing new insights into payload capacity optimization.
 
-**Data Analyst\Institute of Urban Studies, and Planning Development(Aug2013-Sep2019)**
+**Data Analyst\Institute of Urban Studies, and Planning Development(Aug2013-Sep2019)**    
 - leveraging statistical analysis and ArcGIS to produce insightful maps that reveal in-depth transit patterns within the city.
 
   
@@ -38,7 +38,7 @@ Graduate Certificate in Big Data Applied Stats Analysis\ [North Dakota State Uni
 
 ## Certifications
 
-- **Big Data Analysis & Applied Stats**
+- **Big Data Analysis & Applied Stats**                   
    [North Dakota State University, 2023](https://www.parchment.com/u/award/83d69a01410dc0aebd33f3b4c973afad)
 - **Fitting Statistical Models to Data with Python**       
    [University of Michigan, 2023](https://www.coursera.org/account/accomplishments/certificate/5KXUGKKKFJJR)
