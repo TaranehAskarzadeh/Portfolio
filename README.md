@@ -7,11 +7,9 @@
 
 ---
 
-## 🛠 Professional Skills
+## Technical Skills
 
-- **Programming:** Python, R, HTML, MATLAB, MySQL.
-- **Data Visualization:** ArcGIS Pro, ArcMap, Power BI, Tableau, Python (Matplotlib, Seaborn, Plotly, Ggplot, Geoplotlib), SAP, SPSS, SAS.
-- **Management:** Project management, risk assessment, strategic planning, and proposal writing.
+- **Python, R, MATLAB, MySQLm, ArcGIS Pro, ArcMap, Power BI, Tableau,SAP, SPSS, SAS**
 
 ---
 
@@ -40,7 +38,7 @@ Graduate Certificate in Big Data Applied Stats Analysis\ [North Dakota State Uni
 ## Certifications
 
 - **Big Data Analysis & Applied Stats**
--  [North Dakota State University, 2023](https://www.parchment.com/u/award/83d69a01410dc0aebd33f3b4c973afad)
+   [North Dakota State University, 2023](https://www.parchment.com/u/award/83d69a01410dc0aebd33f3b4c973afad)
 - **Fitting Statistical Models to Data with Python**       
    [University of Michigan, 2023](https://www.coursera.org/account/accomplishments/certificate/5KXUGKKKFJJR)
 - **Understanding and Visualizing Data with Python**       
