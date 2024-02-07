@@ -53,15 +53,19 @@
 
 ## Selected projects in data science, ML and NLP
 ---
-**Drone Fleet Analytics a ML Approach to Enhancing Aerial Performance**                                         
+**Drone Fleet Analytics a ML Approach to Enhancing Aerial Performance**                    
+[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/TaranehAskarzadeh/Drone-Fleet-Analytics-A-Machine-Learning-Approach-to-Enhancing-Aerial-Performance)
+
 Developed an eVTOL performance model with 94% accuracy using a variety of machine learning algorithms to predict payload capacity from a comprehensive feature set. Subsequently revealed a non-linear relationship, enhancing understanding of eVTOL capabilities under varying payload conditions.
 
 ---
 
 **Effects of Bicycle Facility Characteristics and the Built Environment on Bicycle Use: Case Study of Fargo-Moorhead**           
 Small Urban, Rural and Tribal Center on Mobility (SURTCOM), granted by U.S. Department of Transportation (2022) 
-•	Developed a GIS-based level of traffic stress (LTS) map for Fargo-Moorhead and analyzed Strava's crowdsourced bicycle data, uncovering crucial insights into how the built environment influences bicycle usage and demonstrating the significant impact of bicycle facilities on usage patterns.
+
 [![Paper](https://img.shields.io/badge/Paper-Read-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://www.hindawi.com/journals/jat/2021/9808922/) [![USDOT Project](https://img.shields.io/badge/USDOT_Project-View-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://www.ugpti.org/resources/reports/downloads/surtcom22-14.pdf)
+
+•	Developed a GIS-based level of traffic stress (LTS) map for Fargo-Moorhead and analyzed Strava's crowdsourced bicycle data, uncovering crucial insights into how the built environment influences bicycle usage and demonstrating the significant impact of bicycle facilities on usage patterns.
 
 
 
