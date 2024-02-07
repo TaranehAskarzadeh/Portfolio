@@ -41,16 +41,15 @@ Graduate Certificate in Big Data Applied Stats Analysis\North Dakota State Unive
 
 ## Certifications
 
-- **Big Data Analysis & Applied Stats** - [North Dakota State University, 2023](https://www.parchment.com/u/award/83d69a01410dc0aebd33f3b4c973afad)
-- **Fitting Statistical Models to Data with Python** - [University of Michigan, September 2023](https://www.coursera.org/account/accomplishments/certificate/5KXUGKKKFJJR)
-- **Understanding and Visualizing Data with Python** - [University of Michigan, September 2023](https://www.coursera.org/account/accomplishments/verify/FY5V7DVXVBJX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- **Python for Data Science and Machine Learning Bootcamp** - [Pierian Training, September 2023](https://www.udemy.com/certificate/UC-7b95569e-0d5c-4a9b-a386-e3263f4d73c6/)
-- **Advanced Arc GIS** - Artificial Intelligence Information Institute by Ferdowsi University, July 2004
+- **Big Data Analysis & Applied Stats** -
+- [North Dakota State University, 2023](https://www.parchment.com/u/award/83d69a01410dc0aebd33f3b4c973afad)
+- **Fitting Statistical Models to Data with Python** -
+- [University of Michigan, September 2023](https://www.coursera.org/account/accomplishments/certificate/5KXUGKKKFJJR)
+- **Understanding and Visualizing Data with Python** -
+- [University of Michigan, September 2023](https://www.coursera.org/account/accomplishments/verify/FY5V7DVXVBJX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- **Python for Data Science and Machine Learning Bootcamp** -
+- [Pierian Training, September 2023](https://www.udemy.com/certificate/UC-7b95569e-0d5c-4a9b-a386-e3263f4d73c6/)
  
-
 ---
 
-## 📚 Publications & Presentations
-
-- _Comparative Analysis of Machine Learning Algorithms for Predicting Drone Payload Capacity_ - Applied Sciences, 2024 (Under Review)
-- _Advancing Railroad Safety with Remote Sensing and ML Approaches_ - Applied Sciences, 2024 (Under Review)
+## Selected projects in data science, machine learning and NLP
