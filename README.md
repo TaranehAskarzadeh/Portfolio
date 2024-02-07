@@ -53,8 +53,9 @@
 
 ## Selected projects in data science, ML and NLP
 ---
-**Drone Fleet Analytics a ML Approach to Enhancing Aerial Performance**                    
-[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/TaranehAskarzadeh/Drone-Fleet-Analytics-A-Machine-Learning-Approach-to-Enhancing-Aerial-Performance)
+**Drone Fleet Analytics a ML Approach to Enhancing Aerial Performance**   
+
+[![GitHub](https://img.shields.io/badge/GitHub-Drone_Fleet_Analytics-blue?style=flat&logo=github)](https://github.com/TaranehAskarzadeh/Drone-Fleet-Analytics-A-Machine-Learning-Approach-to-Enhancing-Aerial-Performance)
 
 Developed an eVTOL performance model with 94% accuracy using a variety of machine learning algorithms to predict payload capacity from a comprehensive feature set. Subsequently revealed a non-linear relationship, enhancing understanding of eVTOL capabilities under varying payload conditions.
 
