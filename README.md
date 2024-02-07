@@ -1,5 +1,7 @@
 # Data Scientist 
+
 #### Technical Skills: Python, R, MATLAB, MySQLm, ArcGIS Pro, ArcMap, Power BI, Tableau,SAP, SPSS, SAS
+
 
 ##  Education
 
@@ -8,6 +10,7 @@
 
 - **Graduate Certificate in Big Data Applied Stats Analysis**      
   [North Dakota State University](https://www.parchment.com/u/award/83d69a01410dc0aebd33f3b4c973afad)(Dec2023)
+
 
 ---
 
@@ -28,6 +31,7 @@
 ---
 
 
+
 ## Certifications
 
 - **Big Data Analysis & Applied Stats**                   
@@ -41,6 +45,7 @@
 
 
 ---
+
 
 
 ## Selected projects in data science, ML and NLP
