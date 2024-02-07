@@ -58,9 +58,11 @@
 Developed an eVTOL performance model with 94% accuracy using a variety of machine learning algorithms to predict payload capacity from a comprehensive feature set. Subsequently revealed a non-linear relationship, enhancing understanding of eVTOL capabilities under varying payload conditions.
 
 	
-![image](https://github.com/TaranehAskarzadeh/portfolio/assets/65934906/bbb7522f-8972-4816-bc0a-bad802533b8c)
-![image](https://github.com/TaranehAskarzadeh/portfolio/assets/65934906/567a96de-f631-488d-9921-447830acf98d)
-![image](https://github.com/TaranehAskarzadeh/portfolio/assets/65934906/77ff8798-d79b-4c42-aec3-dc3b979e3d41)
+<p align="center">
+  <img src="https://github.com/TaranehAskarzadeh/portfolio/assets/65934906/bbb7522f-8972-4816-bc0a-bad802533b8c" width="100" alt="image 1" />
+  <img src="https://github.com/TaranehAskarzadeh/portfolio/assets/65934906/567a96de-f631-488d-9921-447830acf98d" width="100" alt="image 2" />
+  <img src="https://github.com/TaranehAskarzadeh/portfolio/assets/65934906/77ff8798-d79b-4c42-aec3-dc3b979e3d41" width="100" alt="image 3" />
+</p>
 
 
 
