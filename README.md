@@ -1,10 +1,9 @@
 
 
-
-![Taraneh Askarzadeh](https://github.com/TaranehAskarzadeh/repository_name/blob/main/photo.jpg?raw=true)
-
 📞 (703) 624-9929 | ✉️ [Taraneh.Askarzadeh@ndsu.edu](mailto:Taraneh.Askarzadeh@ndsu.edu)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/taraneh-askarzadeh-ph-d-b974a4b3)](https://linkedin.com/in/taraneh-askarzadeh-ph-d-b974a4b3)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white&link=https://github.com/TaranehAskarzadeh)](https://github.com/TaranehAskarzadeh)
 
 ---
 
