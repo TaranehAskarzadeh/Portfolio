@@ -11,10 +11,10 @@
 
 ##  Education
 
-- Ph.D. in Transportation & Supply Chain      
+- **Ph.D. in Transportation & Supply Chain**      
   North Dakota State University (Dec2023)
 
-- Graduate Certificate in Big Data Applied Stats Analysis      
+- **Graduate Certificate in Big Data Applied Stats Analysis**      
   [North Dakota State University](https://www.parchment.com/u/award/83d69a01410dc0aebd33f3b4c973afad)(Dec 2023)
 
 ---
