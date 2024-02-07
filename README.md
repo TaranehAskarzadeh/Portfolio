@@ -1,4 +1,4 @@
-
+# Data Scientist | Transportation
 
 📞 (703) 624-9929 | ✉️ [Taraneh.Askarzadeh@ndsu.edu](mailto:Taraneh.Askarzadeh@ndsu.edu)
 
@@ -18,19 +18,20 @@
 
 ##  Education
 
-**Ph.D. in Transportation & Supply Chain**\North Dakota State University (Dec 2023)
+Ph.D. in Transportation & Supply Chain\North Dakota State University (Dec2023)
 
-**Graduate Certificate in Big Data Applied Stats Analysis**\North Dakota State University (Dec 2023)
+---
+Graduate Certificate in Big Data Applied Stats Analysis\North Dakota State University (Dec 2023)
 
 ---
 
 ## Professional Experience
 
-**Transportation Data Analyst**\Upper Great Plains Transportation Institute (Jan 2020 - Present)
+**Transportation Data Analyst\Upper Great Plains Transportation Institute(Jan2020-Present)**
 - Spearheaded a project using NLP and LDA for topic modeling to analyze public discourse on transportation during COVID-19.
 - Innovated a cost-effective drone-based framework for bridge condition monitoring, employing data mining and statistical modeling.
 
-**Data Science Fellow**\Department of Statistics, North Dakota State University, (May 2023 - Dec 2023)
+**Data Science Fellow\Department of Statistics\North Dakota State University(May2023-Dec 2023)**
 
 - Developed a high-accuracy eVTOL performance model, contributing new insights into payload capacity optimization.
 
