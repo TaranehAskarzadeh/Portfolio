@@ -16,27 +16,27 @@
 
 ---
 
-## 🎓 Education
+##  Education
 
-**Ph.D. in Transportation & Supply Chain Management**\North Dakota State University
-**Graduate Certificate in Big Data Applied Stats Analysis**\North Dakota State University
+**Ph.D. in Transportation & Supply Chain**\North Dakota State University (Dec 2023)
+
+**Graduate Certificate in Big Data Applied Stats Analysis**\North Dakota State University (Dec 2023)
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-**Transportation Data Analyst / Graduate Research Assistant**\
-_Upper Great Plains Transportation Institute, Jan 2020 - Present_
+**Transportation Data Analyst**\Upper Great Plains Transportation Institute (Jan 2020 - Present)
 - Spearheaded a project using NLP and LDA for topic modeling to analyze public discourse on transportation during COVID-19.
 - Innovated a cost-effective drone-based framework for bridge condition monitoring, employing data mining and statistical modeling.
 
-**Data Science Fellow**\
-_Department of Statistics, North Dakota State University, May 2023 - Dec 2023_
+**Data Science Fellow**\Department of Statistics, North Dakota State University, (May 2023 - Dec 2023)
+
 - Developed a high-accuracy eVTOL performance model, contributing new insights into payload capacity optimization.
 
 ---
 
-## 🏅 Certifications & Achievements
+##  Certifications & Achievements
 
 - **Certified in Big Data Analysis & Applied Stats** - North Dakota State University, 2023
 - **Awarded for Excellence in Research** - College of Business, NDSU, 2021-2022
