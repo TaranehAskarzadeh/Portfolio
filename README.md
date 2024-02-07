@@ -7,7 +7,7 @@
 
 ---
 
-## Technical Skills: Python, R, MATLAB, MySQLm, ArcGIS Pro, ArcMap, Power BI, Tableau,SAP, SPSS, SAS
+#### Technical Skills: Python, R, MATLAB, MySQLm, ArcGIS Pro, ArcMap, Power BI, Tableau,SAP, SPSS, SAS
 
 ##  Education
 
@@ -52,3 +52,21 @@
 
 
 ## Selected projects in data science, machine learning and NLP
+---
+**Drone Fleet Analytics a ML Approach to Enhancing Aerial Performance**
+Developed an eVTOL performance model with 94% accuracy using a variety of machine learning algorithms to predict payload capacity from a comprehensive feature set. Subsequently revealed a non-linear relationship, enhancing understanding of eVTOL capabilities under varying payload conditions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
