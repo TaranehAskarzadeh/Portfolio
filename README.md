@@ -1,27 +1,26 @@
 
+
+
 ![Taraneh Askarzadeh](https://github.com/TaranehAskarzadeh/repository_name/blob/main/photo.jpg?raw=true)
 
- (703) 624-9929 |  [Taraneh.Askarzadeh@ndsu.edu](mailto:Taraneh.Askarzadeh@ndsu.edu)
+📞 (703) 624-9929 | ✉️ [Taraneh.Askarzadeh@ndsu.edu](mailto:Taraneh.Askarzadeh@ndsu.edu)
 
-...
+
+---
 
 ## 🛠 Professional Skills
 
 - **Data Science & Analytics:** Proficient in machine learning, deep learning, NLP, and time series analysis. Expertise in data modeling, mining, and predictive analytics.
-- **Programming:** Skilled in Python, R, MATLAB, and SQL. Comfortable with HTML and database management systems.
-- **Data Visualization:** Adept in creating insightful visualizations with tools like ArcGIS Pro, Power BI, Tableau, and Python libraries (Matplotlib, Seaborn, Plotly).
-- **Management:** Experienced in project management, risk assessment, strategic planning, and proposal writing.
+- **Programming:** Skilled in Python, R, MATLAB, SQL, and HTML.
+- **Data Visualization:** ArcGIS Pro, Power BI, Tableau, and Python libraries (Matplotlib, Seaborn, Plotly).
+- **Management:** Project management, risk assessment, strategic planning, and proposal writing.
 
 ---
 
 ## 🎓 Education
 
-**Ph.D. in Transportation & Supply Chain Management**\
-_North Dakota State University, Jan 2020 - Dec 2023_\
-Dissertation: "Quantitative Analysis of Drone-Based Monitoring of Transportation Linear Assets"
-
-**Graduate Certificate in Big Data Applied Stats Analysis**\
-_North Dakota State University, May 2023 - Dec 2023_
+**Ph.D. in Transportation & Supply Chain Management**\North Dakota State University
+**Graduate Certificate in Big Data Applied Stats Analysis**\North Dakota State University
 
 ---
 
