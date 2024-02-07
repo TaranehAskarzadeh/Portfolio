@@ -11,16 +11,14 @@
 
 - **Python, R, MATLAB, MySQLm, ArcGIS Pro, ArcMap, Power BI, Tableau,SAP, SPSS, SAS**
 
----
-
 ##  Education
 
 Ph.D. in Transportation & Supply Chain\North Dakota State University (Dec2023)
 
----
 Graduate Certificate in Big Data Applied Stats Analysis\ [North Dakota State University](https://www.parchment.com/u/award/83d69a01410dc0aebd33f3b4c973afad)(Dec 2023)
 
 ---
+
 
 ## Professional Experience
 
@@ -33,7 +31,10 @@ Graduate Certificate in Big Data Applied Stats Analysis\ [North Dakota State Uni
 
 **Data Analyst\Institute of Urban Studies, and Planning Development(Aug2013-Sep2019)**
 - leveraging statistical analysis and ArcGIS to produce insightful maps that reveal in-depth transit patterns within the city.
+
+  
 ---
+
 
 ## Certifications
 
@@ -45,6 +46,9 @@ Graduate Certificate in Big Data Applied Stats Analysis\ [North Dakota State Uni
   [University of Michigan, 2023](https://www.coursera.org/account/accomplishments/verify/FY5V7DVXVBJX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - **Python for Data Science and Machine Learning Bootcamp**          
  [Pierian Training, 2023](https://www.udemy.com/certificate/UC-7b95569e-0d5c-4a9b-a386-e3263f4d73c6/)
+
+
 ---
+
 
 ## Selected projects in data science, machine learning and NLP
