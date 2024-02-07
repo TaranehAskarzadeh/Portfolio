@@ -55,7 +55,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Drone_Fleet_Analytics-blue?style=flat&logo=github)](https://github.com/TaranehAskarzadeh/Drone-Fleet-Analytics-A-Machine-Learning-Approach-to-Enhancing-Aerial-Performance)
 
-Developed an eVTOL performance model with 94% accuracy using a variety of machine learning algorithms to predict payload capacity from a comprehensive feature set. Subsequently revealed a non-linear relationship, enhancing understanding of eVTOL capabilities under varying payload conditions.
+Developed an eVTOL performance model with **94% accuracy** using a variety of machine learning algorithms to predict payload capacity from a comprehensive feature set. Subsequently revealed a non-linear relationship, enhancing understanding of eVTOL capabilities under varying payload conditions.
 
 	
 <p align="center">
@@ -69,13 +69,13 @@ Developed an eVTOL performance model with 94% accuracy using a variety of machin
 ---
 
 **Effects of Bicycle Facility Characteristics and the Built Environment on Bicycle Use: Case Study of Fargo-Moorhead**           
-Small Urban, Rural and Tribal Center on Mobility (SURTCOM), granted by U.S. Department of Transportation (2022) 
+granted by U.S. Department of Transportation (2022) 
 
 [![Paper](https://img.shields.io/badge/Paper-Read-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://www.hindawi.com/journals/jat/2021/9808922/) [![USDOT Project](https://img.shields.io/badge/USDOT_Project-View-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://www.ugpti.org/resources/reports/details.php?id=1105)
 
 
 
-•	Developed a GIS-based level of traffic stress (LTS) map for Fargo-Moorhead and analyzed Strava's crowdsourced bicycle data, uncovering crucial insights into how the built environment influences bicycle usage and demonstrating the significant impact of bicycle facilities on usage patterns.
+Developed a GIS-based level of traffic stress (LTS) map for Fargo-Moorhead and analyzed Strava's crowdsourced bicycle data, uncovering crucial insights into how the built environment influences bicycle usage and demonstrating the significant impact of bicycle facilities on usage patterns.
 
 
 
