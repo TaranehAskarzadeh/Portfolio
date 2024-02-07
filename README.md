@@ -59,6 +59,8 @@
 
 Developed an eVTOL performance model with 94% accuracy using a variety of machine learning algorithms to predict payload capacity from a comprehensive feature set. Subsequently revealed a non-linear relationship, enhancing understanding of eVTOL capabilities under varying payload conditions.
 
+	
+https://github.com/TaranehAskarzadeh/portfolio.git
 ---
 
 **Effects of Bicycle Facility Characteristics and the Built Environment on Bicycle Use: Case Study of Fargo-Moorhead**           
