@@ -19,14 +19,19 @@
 ## Professional Experience
 
 **Transportation Data Analyst\Upper Great Plains Transportation Institute(Jan2020-Present)**
-- Spearheaded a project using NLP and LDA for topic modeling to analyze public discourse on transportation during COVID-19.
+- Executed a pioneering research project on remote sensing in surface transportation assets monitoring, developing a framework to integrate drone technology, sensor capabilities, and AI methods, significantly advancing data analysis and standardization in transportation asset management.
+- Developed a GIS-based level of traffic stress (LTS) map for Fargo-Moorhead and analyzed Strava's crowdsourced bicycle data, uncovering crucial insights into how the built environment influences bicycle usage and demonstrating the significant impact of bicycle facilities on usage patterns.
 - Innovated a cost-effective drone-based framework for bridge condition monitoring, employing data mining and statistical modeling.
 
 **Data Science Fellow\Department of Statistics\North Dakota State University(May2023-Dec 2023)**
-- Developed a high-accuracy eVTOL performance model, contributing new insights into payload capacity optimization.
+- Completed 30+ projects and labs utilizing the entire data science workflow, including data acquisition, data cleaning, data visualization, exploratory analysis, feature selection, modeling, and evaluation.
+- Conducted natural language processing (using NLTK library in Python) on hundreds of scraped Reddit posts to train several classification models to discover the main topics.
+  Developed and trained a Convolutional Neural Network (CNN) to accurately detect cracks in infrastructure images by preprocessing the dataset, selecting an optimal CNN architecture, and rigorously testing the model, achieving a detection accuracy of 95%.
+- Developed an eVTOL performance model with 94% accuracy using machine learning algorithms to predict payload capacity from a comprehensive feature set. Subsequently revealed a non-linear relationship, enhancing understanding of eVTOL capabilities under varying payload conditions.
+
 
 **Data Analyst\Institute of Urban Studies, and Planning Development(Aug2013-Sep2019)**    
-- leveraging statistical analysis and ArcGIS to produce insightful maps that reveal in-depth transit patterns within the city.
+- Engaged in various transportation projects, conducting statistical analysis that led to insightful reports. This involved adept use of SQL, GIS and data analysis techniques for converting transportation data into detailed maps.
 
   
 ---
@@ -79,8 +84,13 @@ Developed a GIS-based level of traffic stress (LTS) map for Fargo-Moorhead and a
 
 
 
+---
 
 
+
+## Awards
+
+- Recipient of the North Dakota State University College of Business Graduate School Research Award, 2021-22, recognizing exceptional research contributions.
 
 
 
