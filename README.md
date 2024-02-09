@@ -82,7 +82,11 @@ granted by U.S. Department of Transportation (2022)
 
 Developed a GIS-based level of traffic stress (LTS) map for Fargo-Moorhead and analyzed Strava's crowdsourced bicycle data, uncovering crucial insights into how the built environment influences bicycle usage and demonstrating the significant impact of bicycle facilities on usage patterns.
 
-
+<p align="center">
+![image](https://github.com/TaranehAskarzadeh/portfolio/assets/65934906/b35a69e6-5c64-4a54-bdb3-94191bf78a6a)width="150" alt="image 1" />
+![image](https://github.com/TaranehAskarzadeh/portfolio/assets/65934906/c0d7ff09-cdce-4b84-a095-72f85188fe4a)width="150" alt="image 2" />
+![image](https://github.com/TaranehAskarzadeh/portfolio/assets/65934906/e3c9afe4-90b9-4edc-8236-66c09831b60f)width="150" alt="image 3" />
+</p>
 
 ---
 
