@@ -1,5 +1,14 @@
-title: Traneh Askarzadeh
+title: Taraneh Askarzadeh
 logo: /assets/img/headshot_circle.png
-#description: Seasoned transportation data scientist with a big data analysis certificate, boasting more than a decade of academic research experience. Skilled in leveraging over two years of hands-on machine learning and statistical analysis to solve real-world challenges, effectively transforming complex datasets into actionable insights for strategic decision-making in a variety of projects.
-show_downloads: False
+description: >
+  <strong>(703) 624-9929</strong> | 
+  <a href='mailto:Taraneh.Askarzadeh@ndsu.edu'>Taraneh.Askarzadeh@ndsu.edu</a>
+  <a href='https://linkedin.com/in/taraneh-askarzadeh-ph-d-b974a4b3'>
+    <img src='https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white'>
+  </a>
+  <a href='https://github.com/TaranehAskarzadeh'>
+    <img src='https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white'>
+  </a>
+show_downloads: false
 theme: jekyll-theme-minimal
+
