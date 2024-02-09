@@ -91,7 +91,16 @@ Developed a GIS-based level of traffic stress (LTS) map for Fargo-Moorhead and a
 
 ---
 
+## NLP Topic Modeling LDA-based Customer Review Analysis
 
+[![NLP-Topic Modeling](https://img.shields.io/badge/NLP--Topic%20Modeling-blue?style=flat&logo=github)](https://github.com/TaranehAskarzadeh/Topic-Modeling-LDA-based-Customer-Review-Analysis/tree/main)
+
+
+In this project, I used Reddit's API to collect data for a binary predictor model that identifies the origin subreddit of posts. The workflow involved loading data into a pandas DataFrame, cleaning the text (lowercasing, removing punctuation/stopwords, lemmatizing), and then leveraging Gensim to prepare the data for LDA analysis. After training the LDA model on this preprocessed corpus, I utilized pyLDAvis for topic visualization, making the model's findings accessible and interpretable. This streamlined approach effectively combined NLP and machine learning to classify subreddit content accurately.
+
+<p align="center">
+<img src="https://github.com/TaranehAskarzadeh/portfolio/assets/65934906/b4d29290-3deb-473e-b273-940ded7a99d4" width="150" alt="image 1" />	
+</p>
 
 ## Awards
 
