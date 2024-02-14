@@ -89,9 +89,8 @@ Developed an eVTOL performance model with **94% accuracy** using a variety of ma
 
 In this project, I used Reddit's API to collect data for a binary predictor model that identifies the origin subreddit of posts. The workflow involved loading data into a pandas DataFrame, cleaning the text (lowercasing, removing punctuation/stopwords, lemmatizing), and then leveraging Gensim to prepare the data for LDA analysis. After training the LDA model on this preprocessed corpus, I utilized pyLDAvis for topic visualization, making the model's findings accessible and interpretable. This streamlined approach effectively combined NLP and machine learning to classify subreddit content accurately.
 
-<p align="center">
-  <img src="https://github.com/TaranehAskarzadeh/portfolio/assets/65934906/427713ac-686d-484d-b8d5-3aaedfd55529" width="50%" />
-</p>
+![image](https://github.com/TaranehAskarzadeh/portfolio/assets/65934906/26e429c8-b4d6-4f49-a7fc-8951241b7920)
+
 
 
 
