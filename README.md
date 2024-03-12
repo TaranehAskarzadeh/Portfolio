@@ -1,9 +1,6 @@
 # Data Scientist | Transportation
 
 
-#### Technical Skills: Python, R, MATLAB, MySQLm, Power BI, Tableau,SAP, SPSS, SAS, ArcGIS Pro.
-
-
 ##  Education
 
 - **Ph.D. in Transportation & Supply Chain**      
